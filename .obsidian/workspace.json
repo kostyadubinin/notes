@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "3fd176bec72ef83e",
+    "type": "split",
+    "children": [
+      {
+        "id": "4dd2fec73cdfa360",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80af82ea1d419a0a",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "картинки/Pasted image 20250619221420.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250619221420"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cec90dc498b894c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3c6b317ae436cea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c096c74d7e8b9663",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловий менеджер"
+            }
+          },
+          {
+            "id": "dd4fae68ff11d37d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f418b06593619d98",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 226.49999618530273
+  },
+  "right": {
+    "id": "6e2c67c02d7bc52e",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc66aba5897cd718",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "90e73abb711b9b5d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Штучний Інтелект.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Зворотні посилання для Штучний Інтелект"
+            }
+          },
+          {
+            "id": "61857e7debb77d58",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "f546419dfbea5fe9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5b0b014b8731f8de",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "картинки/Pasted image 20250619221420.png",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Вміст Pasted image 20250619221420"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Відкрити провідник файлів": false,
+      "graph:Граф": false,
+      "canvas:Створити нове полотно": false,
+      "daily-notes:Сьогоднішня нотатка": false,
+      "templates:Вставити шаблон": false,
+      "command-palette:Відкрити меню команд": false
+    }
+  },
+  "active": "c096c74d7e8b9663",
+  "lastOpenFiles": [
+    "TODO.md",
+    "Клавіша Fn.md",
+    "Режим Сну.md",
+    "Оновлення Системи.md",
+    "Паролі.md",
+    "Пароль Windows.md",
+    "картинки/Pasted image 20250619221420.png",
+    "Збільшити Шрифт.md",
+    "картинки/Pasted image 20250619220901.png",
+    "картинки/Pasted image 20250619220655.png",
+    "Гравіювання Клавіатури.md",
+    "Штучний Інтелект.md",
+    "картинки/Pasted image 20250618233248.png",
+    "картинки/Pasted image 20250618232357.png",
+    "картинки/Pasted image 20250618223428.png",
+    "картинки/Pasted image 20250618222104.png",
+    "картинки/Pasted image 20250618221828.png",
+    "картинки/copilot.jpg",
+    "картинки/Bitwarden_2022_Logo.svg.png",
+    "картинки",
+    "Welcome.md"
+  ]
+}
