@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4dd2fec73cdfa360",
+        "id": "b86a88088c7ba4e8",
         "type": "tabs",
         "children": [
           {
-            "id": "de436cf25434c3d9",
+            "id": "8cf807f438b1cd97",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -168,11 +168,11 @@
       "command-palette:Відкрити меню команд": false
     }
   },
-  "active": "de436cf25434c3d9",
+  "active": "8cf807f438b1cd97",
   "lastOpenFiles": [
+    "TODO.md",
     "Пароль Windows.md",
     "Паролі.md",
-    "TODO.md",
     "Оновлення Системи.md",
     "Мишка.md",
     "Клавіша Fn.md",
